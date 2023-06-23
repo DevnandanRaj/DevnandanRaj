@@ -4,7 +4,7 @@ Aspiring Full Stack developer looking for a position that will utilize my knowle
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnandanraj07) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=plastic&logo=google-chrome&logoColor=white)](https://devnandanraj.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=plastic&logo=google-chrome&logoColor=white)]()
 [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?style=plastic&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ElM0jh3ilAPRCeDVMniGCiojkMUExcgh/view?usp=share_link)
 
 
